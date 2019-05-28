@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LQLOper'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of LQLOper.'
+  s.summary          = '赖泉龙新创建的DEMO'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: 这是一个心的库大厦啥事发啥啥啥饭，我是什么都不想说的一个库，你说这是什么意思啊？
                        DESC
 
   s.homepage         = 'https://github.com/laiquanlong1/LQLOper'
